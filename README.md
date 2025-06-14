@@ -64,4 +64,8 @@ Este proyecto está diseñado para:
 - Enseñar los fundamentos de programación de red
 - Demostrar la implementación de protocolos TCP y UDP
 - Proporcionar ejemplos prácticos de comunicación en red
+<<<<<<< HEAD
 - Facilitar el aprendizaje de conceptos de redes a través de la práctica 
+=======
+- Facilitar el aprendizaje de conceptos de redes a través de la práctica 
+>>>>>>> 12113cc5a300b4b403d0c92026bc904ccaeae941
