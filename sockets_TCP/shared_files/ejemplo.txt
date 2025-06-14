@@ -1,0 +1,2 @@
+Este es un archivo de ejemplo para transferencia.
+Contiene varias líneas de texto.
